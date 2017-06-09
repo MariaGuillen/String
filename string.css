@@ -1,16 +1,16 @@
-	body {
+body {
 	background-image: url("imagenes/comer.jpg");
 }
 
-	h1 {
+h1 {
 	text-align: center;
 }
 
-	h2 {
+h2 {
 	color: brown;
 }
 /* Modificaciones a la clase wrapper*/
-	.wrapper {
+.wrapper {
 	width: 450px;
 	margin: 20px auto 20px auto;
 	border: 2px solid red;
@@ -18,9 +18,3 @@
 	height: 100px;
 	text-align: center;
 }
-
-
-
-
-
-
