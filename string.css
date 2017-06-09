@@ -1,4 +1,4 @@
-body {
+	body {
 	background-image: url("imagenes/comer.jpg");
 }
 
@@ -10,7 +10,7 @@ body {
 	color: brown;
 }
 /* Modificaciones a la clase wrapper*/
-.wrapper {
+	.wrapper {
 	width: 450px;
 	margin: 20px auto 20px auto;
 	border: 2px solid red;
@@ -19,7 +19,7 @@ body {
 	text-align: center;
 }
 
-/*#content {
+/*	#content {
 	width: 350px;
 	margin: 20px auto 20px auto;
 	border: 2px solid red;
@@ -28,14 +28,14 @@ body {
 	text-align: center;
 	}
 
-.intro {
+	.intro {
 	background-color: #ffffff;
 	height: 80px;
 	font-size: 190%;
 	text-align: center;
 	}
 
-#nombre {
+	#nombre {
 	text-decoration: underline;
 	}*/
 
